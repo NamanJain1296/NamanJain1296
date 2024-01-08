@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanjain1296&label=Profile%20views&color=0e75b6&style=flat" alt="namanjain1296" /> </p>
 
-- 🔭 I’m currently working on **3-D Portfolio**
+- 🔭 I’m currently working on **Image Classification Project**
 
-- 🌱 I’m currently learning **ThreeJS, BackEnd Development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NamanJain1296](https://github.com/NamanJain1296)
 
-- 💬 Ask me about **React, Three**
+- 💬 Ask me about **MERN Stack, Machine Learning and UI/UX**
 
 - 📫 How to reach me **naman16b@gmail.com**
 

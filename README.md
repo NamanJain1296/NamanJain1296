@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Image Classification Project**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Computer Vision Technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NamanJain1296](https://github.com/NamanJain1296)
 
